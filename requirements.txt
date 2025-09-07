@@ -1,6 +1,0 @@
-telebot
-langdetect
-requests
-beautifulsoup4
-flask
-pytelegrambotapi
