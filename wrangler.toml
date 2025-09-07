@@ -1,8 +1,9 @@
 name = "cheeleebdcommunity"
-main = "src/index.ts"
+main = "src/index.js"
 compatibility_date = "2025-09-07"
 
 
 # We’ll store secrets via `wrangler secret put`, not here.
 
 # If you want a custom route on your domain, also add a routes section.
+
